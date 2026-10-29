@@ -30,7 +30,7 @@ Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/alvaro1valverdee/generador-pnj.git](https://github.com/alvaro1valverdee/generador-pnj.git)
+   git clone https://github.com/alvaro1valverdee/generador-pnj.git
 2. Entra en la carpeta del proyecto:
    ```bash
    cd generador-pnj
@@ -49,7 +49,7 @@ Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos
 5. Ejecuta la aplicación:
     ```bash
     python app.py
-
+    ```
 💡 Próximas Mejoras (Roadmap)
 
     [ ] Contenerización de la aplicación utilizando Docker.
