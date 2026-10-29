@@ -49,14 +49,10 @@ Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos
 5. Ejecuta la aplicación:
     ```bash
     python app.py
-    ```
-💡 Próximas Mejoras (Roadmap)
-
-    [ ] Contenerización de la aplicación utilizando Docker.
-
-    [ ] Ampliación del catálogo de razas y secretos en el archivo JSON.
-
-    [ ] Añadir persistencia de personajes guardados mediante base de datos.
+## 💡 Próximas Mejoras (Roadmap)
+- [ ] Contenerización de la aplicación utilizando **Docker**.
+- [ ] Ampliación del catálogo de razas y secretos en el archivo JSON.
+- [ ] Añadir persistencia de personajes guardados mediante base de datos.
 
 👨‍💻 Autor
 Desarrollado por Alvaro Valverde.
